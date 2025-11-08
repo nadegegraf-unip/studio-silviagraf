@@ -1,0 +1,1 @@
+public class Servico { private String nome; }
